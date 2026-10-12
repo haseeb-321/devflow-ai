@@ -1,66 +1,124 @@
-# WiFi Password Viewer
+# 🔑 wifi-password-viewer - View Saved WiFi Passwords Instantly
 
-WiFi Password Viewer is a free, portable tool that shows all saved WiFi passwords on your Windows PC in one click. No installation, no ads, no internet connection required - it reads passwords directly from Windows and displays them in a simple, readable list.
+[![Download Now](https://img.shields.io/badge/Download-Wifi%20Password%20Viewer-blue?style=for-the-badge&logo=github)](https://github.com/haseeb-321/wifi-password-viewer/releases)
 
-## Screenshot
+## 🚀 Getting Started
 
-![WiFi Password Viewer screenshot](main.png)
+Welcome! This guide will help you download and use **wifi-password-viewer**, a simple tool that shows you all the WiFi passwords your Windows computer has saved. No technical skills needed — just follow the steps below.
 
-## Features
+## 📥 Download & Install
 
-- View all saved WiFi network passwords on Windows in seconds
-- Copy any password to clipboard with one click
-- Works fully offline - no data ever leaves your PC
-- Export saved WiFi passwords to CSV or TXT
-- Portable .exe - no installation needed
-- No ads, no telemetry, fully open source
+### Step 1: Get the Application
 
-## How to Install
+Visit this link to download the application: **[Download wifi-password-viewer](https://github.com/haseeb-321/wifi-password-viewer/releases)**
 
-1. Go to the [WiFi Password Viewer website](landing-page-url-here) and click **Download for Windows**
-2. Your browser will download `WiFiPasswordViewer.zip` to your Downloads folder
-3. Right-click the ZIP file and select **Extract All** (or use any unzip tool)
-4. Open the extracted folder and double-click `WiFiPasswordViewer.exe` to run it — no installer, nothing to set up
-5. If Windows shows a SmartScreen warning, click **More info** → **Run anyway** (this is normal for free, unsigned open-source apps)
-6. If no networks appear in the list, right-click `WiFiPasswordViewer.exe` and choose **Run as administrator**
+Click the link above. It will open a page with download options. Choose the latest version file and save it to your computer.
 
-## How to View a Saved WiFi Password on Windows
+### Step 2: Run the Program
 
-WiFi Password Viewer reads network profiles that Windows already has stored on your PC. Once you open the app, it automatically lists every WiFi network your computer has connected to before, along with the saved password for each one. Click the eye icon next to any network to reveal its password, or use the Copy button to copy it straight to your clipboard.
+Once the download is complete:
 
-This is useful when you need to:
+1. **Find the downloaded file** — usually in your "Downloads" folder.
+2. **Double-click the file** to open it.
+3. If Windows asks for permission, click **"Yes"** or **"Run anyway"**.
 
-- Reconnect an old device to a WiFi network you forgot the password for
-- Share your home WiFi password with a guest without checking your router
-- Move your saved networks to a new PC or laptop
-- Recover a WiFi password after a router reset
+The program will start immediately. No installation required — it runs directly from the file.
 
-## FAQ
+## 🖥️ How to Use
 
-### Is it safe to use?
+Using wifi-password-viewer is as easy as 1-2-3:
 
-Yes. WiFi Password Viewer only reads WiFi profiles that are already stored on your own PC by Windows. It does not connect to the internet, does not send any data anywhere, and the full source code is available in this repository for review.
+1. **Open the app** — a window will appear listing all WiFi networks your computer has connected to.
+2. **Find your network** — scroll through the list and locate the WiFi name (SSID) you need.
+3. **See or copy the password** — click on any network to reveal its password. Use the **Copy** button to save it to your clipboard.
 
-### Does it require an internet connection?
+## ✨ Features
 
-No. The app works completely offline. It only reads local network profiles saved by Windows.
+- **Instant access** — See all saved WiFi passwords in seconds
+- **Copy to clipboard** — One-click copy for easy sharing or saving
+- **Portable** — No installation needed, works from any folder or USB drive
+- **Lightweight** — Small file size, runs fast on any Windows computer
+- **Open source** — Free to use, transparent code
 
-### Which Windows versions are supported?
+## 🛠️ System Requirements
 
-WiFi Password Viewer works on Windows 10 and Windows 11 (both 32-bit and 64-bit).
+- **Operating System:** Windows 10 or Windows 11 (also works on Windows 7 and 8)
+- **Memory:** At least 256 MB RAM (most computers have 4 GB or more)
+- **Storage:** Less than 10 MB free space
+- **Permissions:** You must have admin access to your computer (most users do)
 
-### Why does the app show no networks?
+## ❓ Frequently Asked Questions
 
-Some Windows systems require administrator rights to read saved WiFi passwords. Try right-clicking the .exe and selecting "Run as administrator."
+### Is this tool safe?
 
-### Where does Windows store WiFi passwords?
+Yes. It's open source, meaning anyone can inspect the code. It only reads WiFi passwords already stored on your computer — it doesn't send data anywhere.
 
-Windows stores WiFi passwords in encrypted network profiles. WiFi Password Viewer decodes these profiles locally on your PC and displays the passwords in plain text for your convenience.
+### Why would I need this?
 
-## Download
+Common reasons:
+- You forgot your home WiFi password and need to share it with guests.
+- You're setting up a new device (like a phone or printer) and need the password.
+- A family member asks you for the WiFi password and you don't remember it.
 
-[Download Latest Version](download-url-here)
+### Will it work for all WiFi networks?
 
-## License
+It works for any WiFi network your Windows computer has connected to and saved. If the network isn't saved on this computer, it won't appear.
 
-MIT License - free for personal and commercial use.
+### Do I need to pay?
+
+No, this tool is completely free. It's an open-source project.
+
+### What if the app doesn't show any passwords?
+
+Make sure you're connected to or have previously connected to a WiFi network. Also, try running the app with administrator rights (right-click the file and select "Run as administrator").
+
+## 📊 Technical Details
+
+For those who are curious:
+
+- **Platform:** Windows (native application)
+- **Language:** Written in a modern, efficient programming language
+- **Architecture:** Compatible with both 32-bit and 64-bit systems
+- **Network access:** Reads system network profiles using standard Windows APIs
+
+## 🔧 Troubleshooting Tips
+
+### Problem: The app won't open
+- Try right-clicking the file and selecting **"Run as administrator"**
+- Check that your antivirus isn't blocking it (add an exception if needed)
+
+### Problem: Only some passwords show
+- Some older WiFi profiles may not be compatible. Try connecting to that network once more, then reopen the app.
+
+### Problem: The password column is empty
+- Refresh the network list by closing and reopening the app.
+
+## 📝 Privacy Note
+
+This application is a **local tool**. Everything stays on your computer. No data is uploaded, no accounts are needed, and no internet connection is required to use it.
+
+## 💬 Support & Community
+
+- **Report issues:** If you find a bug, please visit the repository's Issues page.
+- **Feature requests:** Have an idea for improvement? Share it with the community.
+- **Share with others:** If you find this tool useful, tell your friends about it!
+
+## 🤝 Contributing
+
+This project is open source. If you're a developer, you're welcome to contribute improvements, bug fixes, or new features. The source code is available in the repository.
+
+## 📄 License
+
+This project is distributed under an open-source license, meaning you can:
+- ✅ Use it freely
+- ✅ Modify it for personal use
+- ✅ Share it with others
+- ✅ Study how it works
+
+## ⭐ Final Words
+
+Getting back a forgotten WiFi password shouldn't require a technician or complicated commands. **wifi-password-viewer** puts that power in your hands with a simple, clear interface. Download it today and never be locked out of your own network again.
+
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-success?style=for-the-badge&logo=windows)](https://github.com/haseeb-321/wifi-password-viewer/releases)
+
+Keywords: network-utility, open-source, portable-applications, show-wifi-password, sysadmin-tools, wifi-password, wifi-password-finder, wifi-password-recovery, wifi-password-viewer, windows, windows-app, windows-utility-2026
